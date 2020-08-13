@@ -18,7 +18,7 @@ Software for visual interpretation and labeling of ICESat-2 Geolocated Photon da
 ---
 **Installing PhotonLabeler**
 
-**_PhotonLabeler_** is available as a compiled MATLAB binary which can be installed as a stand-alone software without a MATLAB license. The software does require MATLAB Runtime (free, 2.5Gb+) though, which can be downloaded and installed prior or during the installation of the software. For best performance, we recommend installing the software on a systems with 8 Gb + RAM with any Intel or AMD x86-64 processor with four logical cores or more. Further details on how to use the software are available in the user manual( See download files)
+**_PhotonLabeler_** is available as a compiled MATLAB binary which can be installed as a stand-alone software without a MATLAB license. The software does require MATLAB Runtime (free, 1.5Gb+) though, which can be downloaded and installed prior or during the installation of the software. For best performance, we recommend installing the software on a systems with 8 Gb + RAM with any Intel or AMD x86-64 processor with four logical cores or more. Further details on how to use the software are available in the user manual( See download files)
 
 ---
 
