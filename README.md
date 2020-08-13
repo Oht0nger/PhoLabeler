@@ -1,2 +1,2 @@
 # PhoLabeler
-ATLAS Photon Labeler
+Photon Labeler
