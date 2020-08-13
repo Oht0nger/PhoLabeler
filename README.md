@@ -13,6 +13,8 @@ Software for visual interpretation and labeling of ICESat-2 Geolocated Photon da
 4) Saving and loading of a labeling session i.e. a can saved a session and load it to continue the labeling task.
 5) Saving of plot graphics to include in documents or presentations
 
+<a href = https://github.com/Oht0nger/PhoLabeler/releases>Download the latest version and user manual</a>
+
 ---
 
 ## License & copyright
