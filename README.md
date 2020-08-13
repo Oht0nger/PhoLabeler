@@ -4,6 +4,8 @@
 
 Software for visual interpretation and labeling of ICESat-2 Geolocated Photon data (ATL03)
 
+![alt text](https://github.com/Oht0nger/PhoLabeler/blob/master/PhotonLabe.png?raw=true "PhotonLabeler UI")
+
 **_PhotonLabeler_** is a free graphic user interface (GUI) for visualization and manual labeling of ICESat-2 Geolocated Photon data (ATL03) through visual interpretation. The software is developed with MATLAB AppDesigner (MATLAB R2020a +) and uses MATLAB functions to read and plot ATL03 Hierarchical Data Format (HDF) files. To support manual labeling of points, the software provides the following:
 1) Definition of different point classes i.e. a user can specify the name, code and color of a defined point class
 2) Point selections tools (rectangle, polygon or polyline-based selection)
