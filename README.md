@@ -23,7 +23,7 @@ Software for visual interpretation and labeling of ICESat-2 Geolocated Photon da
 
 <a href = https://github.com/Oht0nger/PhoLabeler/releases/tag/v2.0>Download the version 2.0 and user manual</a>
 
-<a href = https://github.com/Oht0nger/PhoLabeler/releases>Download the version 1.0 and user manual</a>
+<a href = https://github.com/Oht0nger/PhoLabeler/releases/tag/v1.0>Download the version 1.0 and user manual</a>
 
 ---
 **Installing PhotonLabeler**
