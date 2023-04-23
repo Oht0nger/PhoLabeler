@@ -2,8 +2,7 @@
 **Version 2.0**
 
 Software for visual interpretation and labeling of ICESat-2 Geolocated Photon data (ATL03)
-
-![alt text](https://github.com/Oht0nger/PhoLabeler/blob/master/PhotonLabe.png?raw=true "PhotonLabeler UI")
+<img width="1020" alt="PhotonLabeler UI" src="https://user-images.githubusercontent.com/57913239/233867360-8e42d7a4-3512-410e-845f-45323d601999.PNG">
 
 **_PhotonLabeler_** is a free graphic user interface (GUI) for visualization and manual labeling of ICESat-2 Geolocated Photon data (ATL03) through visual interpretation. The software is developed with MATLAB AppDesigner (MATLAB R2020a +) and uses MATLAB functions to read and plot ATL03 Hierarchical Data Format (HDF) files. To support manual labeling of points, the software provides the following:
 1) Definition of different point classes i.e. a user can specify the name, code and color of a defined point class
@@ -12,14 +11,15 @@ Software for visual interpretation and labeling of ICESat-2 Geolocated Photon da
 4) Saving and loading of a labeling session i.e. a can saved a session and load it to continue the labeling task.
 5) Saving of plot graphics to include in documents or presentations
 
-Main updates in v2.0
+**Main updates in v2.0**
 
-1)	The Create New Session Dialog has been split to enable independent loading of ATL03 data and setting of session parameters  
-2)	Added capability to link ATL08 photon class values   to speed-up creating of labeled data
-3)	Added capability to add trackmarks for quick navigation to section of interest along a track
-4)	Added option to render point cloud by signal confidence and plot calculated ATL08 terrain canopy height values
-5)	Point selection tools are now state (on/off) buttons. Click to start and click to stop the tool. 
-6)	Added button to enable skipping to beginning   or end   of track
+1)	New User Interface - All tools organized in one panel
+2)  The Create New Session Dialog has been split to enable independent loading of ATL03 data and setting of session parameters  
+3)	Added capability to link ATL08 photon class values   to speed-up creating of labeled data
+4)	Added capability to add trackmarks for quick navigation to section of interest along a track
+5)	Added option to render point cloud by signal confidence and plot calculated ATL08 terrain canopy height values
+6)	Point selection tools are now state (on/off) buttons. Click to start and click to stop the tool. 
+7)	Added button to enable skipping to beginning   or end   of track
 
 <a href = https://github.com/Oht0nger/PhoLabeler/releases>Download the version 2.0 and user manual</a>
 
