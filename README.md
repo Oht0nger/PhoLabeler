@@ -22,6 +22,7 @@ Main updates in v2.0
 6)	Added button to enable skipping to beginning   or end   of track
 
 <a href = https://github.com/Oht0nger/PhoLabeler/releases>Download the version 2.0 and user manual</a>
+
 <a href = https://github.com/Oht0nger/PhoLabeler/releases>Download the version 1.0 and user manual</a>
 
 ---
