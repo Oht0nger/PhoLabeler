@@ -13,13 +13,13 @@ Software for visual interpretation and labeling of ICESat-2 Geolocated Photon da
 
 **Main updates in v2.0**
 
-1)	New User Interface - All tools organized in one panel
+1)	New User Interface - All tools organized in one panel (left) for easier tool selection 
 2)  The Create New Session Dialog has been split to enable independent loading of ATL03 data and setting of session parameters  
 3)	Added capability to link ATL08 photon class values   to speed-up creating of labeled data
 4)	Added capability to add trackmarks for quick navigation to section of interest along a track
 5)	Added option to render point cloud by signal confidence and plot calculated ATL08 terrain canopy height values
 6)	Point selection tools are now state (on/off) buttons. Click to start and click to stop the tool. 
-7)	Added button to enable skipping to beginning   or end   of track
+7)	Added button to enable skipping to beginning or end of track
 
 <a href = https://github.com/Oht0nger/PhoLabeler/releases/tag/v2.0>Download the version 2.0 and user manual</a>
 
