@@ -21,7 +21,7 @@ Software for visual interpretation and labeling of ICESat-2 Geolocated Photon da
 6)	Point selection tools are now state (on/off) buttons. Click to start and click to stop the tool. 
 7)	Added button to enable skipping to beginning   or end   of track
 
-<a href = https://github.com/Oht0nger/PhoLabeler/releases>Download the version 2.0 and user manual</a>
+<a href = https://github.com/Oht0nger/PhoLabeler/releases/tag/v2.0>Download the version 2.0 and user manual</a>
 
 <a href = https://github.com/Oht0nger/PhoLabeler/releases>Download the version 1.0 and user manual</a>
 
